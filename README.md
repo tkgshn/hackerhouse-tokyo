@@ -1,9 +1,9 @@
-# hackerhouse-tokyo
+# Hacker House Tokyo 🗼 🦄
 
 ## Overiew
 - taka([@0xcommune](https://twitter.com/0xcommune)) and askyv([@0xaskyv](https://twitter.com/0xaskyv)) are hosting Hacker House in Tokyo.
 
-- We gonna housing ~10-20(TBD) hackers and founders for free from April 12 - April 17(TBD) who will hack on open source public goods, on-chain experiments during ETH Tokyo. 
+- We gonna housing ~20 hackers and founders for free from April 13 - April 17 who will hack on open source public goods, on-chain experiments during ETH Tokyo. 
 
 ## 🧑🏻‍💻 Living and hacking together
 - "Crypto" has become a buzzword in some circles, but let's think of it as "a new incentive layer added to the Internet". 
@@ -26,4 +26,4 @@ https://forms.gle/RXfdoXDpGgnZ9iF56
 - WIP
 
 ## Our House
-- WIP
+- WIP(maybe in Shinjyuku. you can go to venure for 30min with public transportion)
