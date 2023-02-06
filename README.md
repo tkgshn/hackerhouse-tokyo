@@ -23,6 +23,8 @@
 
 - We also don’t like to host big parties and strive to keep the house an intimate place for small groups to hang out and have meaningful conversations.
 
+- Hacker House does not provide team building assistance. Please apply to ETH Tokyo on your own. Even if you apply as a team, you will not be able to participate as a whole team (each team member will be screened one by one).
+
 ## 📣 Application Portal: 
 [https://forms.gle/RXfdoXDpGgnZ9iF56](https://forms.gle/RXfdoXDpGgnZ9iF56)
 
